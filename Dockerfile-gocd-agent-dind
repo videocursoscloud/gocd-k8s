@@ -1,0 +1,3 @@
+FROM gocd-agent-docker-dind:v21.1.0
+
+RUN apk add make
